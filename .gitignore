@@ -7,9 +7,18 @@
 /node_modules/
 build/
 env
+/
 /staticfiles/
 
-#src
+# banco sqlite
 *.sqlite*
+db.sqlite3
 
+# environments
 .env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
