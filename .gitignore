@@ -9,7 +9,7 @@ build/
 env
 /
 /staticfiles/
-media/
+/media/
 
 
 # banco sqlite
