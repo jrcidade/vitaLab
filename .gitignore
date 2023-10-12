@@ -9,6 +9,8 @@ build/
 env
 /
 /staticfiles/
+media/
+
 
 # banco sqlite
 *.sqlite*
